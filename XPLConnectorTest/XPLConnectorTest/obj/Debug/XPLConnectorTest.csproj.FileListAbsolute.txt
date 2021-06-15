@@ -1,0 +1,9 @@
+D:\XPLConnectorTest\XPLConnectorTest\XPLConnectorTest\bin\Debug\XPLConnectorTest.exe.config
+D:\XPLConnectorTest\XPLConnectorTest\XPLConnectorTest\bin\Debug\XPLConnectorTest.exe
+D:\XPLConnectorTest\XPLConnectorTest\XPLConnectorTest\bin\Debug\XPLConnectorTest.pdb
+D:\XPLConnectorTest\XPLConnectorTest\XPLConnectorTest\bin\Debug\XPlaneConnector.dll
+D:\XPLConnectorTest\XPLConnectorTest\XPLConnectorTest\obj\Debug\XPLConnectorTest.csprojAssemblyReference.cache
+D:\XPLConnectorTest\XPLConnectorTest\XPLConnectorTest\obj\Debug\XPLConnectorTest.csproj.CoreCompileInputs.cache
+D:\XPLConnectorTest\XPLConnectorTest\XPLConnectorTest\obj\Debug\XPLConnectorTest.csproj.CopyComplete
+D:\XPLConnectorTest\XPLConnectorTest\XPLConnectorTest\obj\Debug\XPLConnectorTest.exe
+D:\XPLConnectorTest\XPLConnectorTest\XPLConnectorTest\obj\Debug\XPLConnectorTest.pdb
